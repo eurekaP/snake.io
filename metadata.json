@@ -1,0 +1,5 @@
+{
+  "name": "SlitherClone.io",
+  "description": "A fast-paced, multiplayer-style snake IO game. Eat orbs to grow, cut off other snakes to defeat them, and survive as long as possible. Features smooth vector-based movement and bot AI.",
+  "requestFramePermissions": []
+}
